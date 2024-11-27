@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gupdate xmlns="http://www.google.com/update2/crx" protocol="2.0">
+  <app appid="nfdmognpaoecpnknkgekaadalgjbjaip">
+    <updatecheck codebase="http://yourserver.com/your_extension.crx" version="1.0.0"/>
+  </app>
+</gupdate>
